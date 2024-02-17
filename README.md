@@ -1,6 +1,4 @@
 ## Desafio 03 - Github Blog
-<img src="https://user-images.githubusercontent.com/71772559/184001699-6ccc6082-3a1e-46ef-b7cc-908667f0d90d.png" align="center" />
-
 Durante este desafio, desenvolvemos uma aplicação que utiliza a API do GitHub para buscar issues de um repositório, dados do perfil e exibir elas como um blog.
 
 ### 🛠️ Nesse projeto foi utilizado
